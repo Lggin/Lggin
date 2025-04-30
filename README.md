@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello!👋
 🔭 I’m currently working on INHA Univ.
+
 🌱 I’m currently learning BigData and ML.
 
 <!--
