@@ -1,7 +1,7 @@
 ## Hello!👋
-🔭 I’m currently working on INHA Univ.
+🔭 from INHA Univ.
 
-🌱 I’m currently learning BigData and ML.
+🌱 I’m interested in BigData and ML.
 
 <!--
 **Lggin/Lggin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
