@@ -1,5 +1,5 @@
 ## Hello!👋
-🔭 from INHA Univ.
+🔭 Graduated INHA Univ.
 
 🌱 I’m interested in BigData and ML.
 
