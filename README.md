@@ -35,7 +35,7 @@
 ## Professional Experience
 
 ### Doosan Robotics — ML Engineer Intern
-**2026.05 – 2026.10**
+**2026.04 – 2026.10**
 
 Worked on production-oriented AI for industrial robotics, including:
 
