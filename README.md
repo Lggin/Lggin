@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎓 **Inha University** — B.Eng. in Industrial & Management Engineering
-- 💼 **Doosan Robotics** — ML Engineer Intern (2026.05–2026.10)
+- 💼 **Doosan Robotics** — ML Engineer Intern (2026.04–2026.10)
 - 🤖 Experience across **Vision AI, RGB-D, ROS 2, MLOps, Local LLM/RAG, Digital Twin**
 - 🔍 Engineering style: **Measure → Build → Validate → Operate**
 - 🇰🇷 Based in South Korea
